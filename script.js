@@ -26,8 +26,6 @@ const map = new mapboxgl.Map({
   container: "map",
   // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
   style: "mapbox://styles/prince2351/claexaqnl000k14n7sw0j9mzj",
-  center: [-73.9656, 40.7826],
-  zoom: 13,
 });
 
 map.on("click", (event) => {
