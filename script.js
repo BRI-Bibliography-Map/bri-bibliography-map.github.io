@@ -50,7 +50,7 @@ map.on("click", (event) => {
     .setHTML(
       `<h3>Publication Titles</h3>${articles
         .filter((article) => feature.layer.id === article.Region)
-        .map((article) => `<p>${article.Title}</p>`)
+        .map((article) => `<p>${article.Study_Information}</p>`)
         .join("")}`
     )
     .addTo(map);
