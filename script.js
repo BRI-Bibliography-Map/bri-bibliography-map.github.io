@@ -48,7 +48,7 @@ map.on("click", (event) => {
   const popup = new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(event.lngLat)
     .setHTML(
-      `<h3>Publication Titles</h3>${articles
+      `<h3>Study Information</h3>${articles
         .filter((article) => feature.layer.id === article.Region)
         .map((article) => `<p>${article.Study_Information}</p>`)
         .join("")}`
