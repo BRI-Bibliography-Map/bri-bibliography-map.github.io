@@ -1,0 +1,226 @@
+Region,Study_Information
+Africa,17 - Development
+Africa,10 - Sociology and Political Science
+Africa,9 - Political Science and International Relations
+Africa,"3 - Economics, Econometrics and Finance"
+Africa,3 - Environmental Science
+Africa,"2 - Business, Management and Accounting"
+Africa,1 - Energy
+Africa,1 - Medicine
+Africa,Agricultural and Biological Sciences
+Africa,Arts and Humanities
+Africa,Cultural Sciences
+Africa,Communication
+Africa,Computer Science
+Africa,Decision Sciences
+Africa,Demography
+Africa,Earth and Planetary Sciences
+Africa,Education
+Africa,Engineering
+Africa,Law
+Africa,Mathematics
+Africa,Multidisciplinary
+Africa,Safety Research
+Africa,Social Sciences (Misc.)
+Africa,Transportation
+Africa,Urban Studies
+Central and South America,4 - Development
+Central and South America,3 - Sociology and Political Science
+Central and South America,"2 - Economics, Econometrics and Finance"
+Central and South America,"1 - Business, Management and Accounting"
+Central and South America,1 - Environmental Science
+Central and South America,1 - Political Science and International Relations
+Central and South America,Agricultural and Biological Sciences
+Central and South America,Arts and Humanities
+Central and South America,Communication
+Central and South America,Computer Science
+Central and South America,Cultural Sciences
+Central and South America,Decision Sciences
+Central and South America,Demography
+Central and South America,Earth and Planetary Sciences
+Central and South America,Education
+Central and South America,Energy
+Central and South America,Engineering
+Central and South America,Law
+Central and South America,Mathematics
+Central and South America,Medicine
+Central and South America,Multidisciplinary
+Central and South America,Safety Research
+Central and South America,Social Sciences (Misc.)
+Central and South America,Transportation
+Central and South America,Urban Studies
+Central and West Asia,23 - Development
+Central and West Asia,"9 - Economics, Econometrics and Finance"
+Central and West Asia,9 - Political Science and International Relations
+Central and West Asia,9 - Sociology and Political Science
+Central and West Asia,6 - Environmental Science
+Central and West Asia,"3 - Business, Management and Accounting"
+Central and West Asia,2 - Transportation
+Central and West Asia,1 - Agricultural and Biological Sciences
+Central and West Asia,1 - Decision Sciences
+Central and West Asia,1 - Earth and Planetary Sciences
+Central and West Asia,1 - Law
+Central and West Asia,1 - Social Sciences (Misc.)
+Central and West Asia,Arts and Humanities
+Central and West Asia,Communication
+Central and West Asia,Computer Science
+Central and West Asia,Cultural Sciences
+Central and West Asia,Demography
+Central and West Asia,Education
+Central and West Asia,Energy
+Central and West Asia,Engineering
+Central and West Asia,Mathematics
+Central and West Asia,Medicine
+Central and West Asia,Multidisciplinary
+Central and West Asia,Safety Research
+Central and West Asia,Urban Studies
+China,41 - Development
+China,"27 - Economics, Econometrics and Finance"
+China,26 - Environmental Science
+China,18 - Political Science and International Relations
+China,16 - Sociology and Political Science
+China,"10 - Business, Management and Accounting"
+China,7 - Transportation
+China,5 - Energy
+China,4 - Law
+China,3 - Earth and Planetary Sciences
+China,2 - Agricultural and Biological Sciences
+China,2 - Decision Sciences
+China,2 - Education
+China,2 - Multidisciplinary
+China,2 - Urban Studies
+China,1 - Arts and Humanities
+China,1 - Computer Science
+China,1 - Cultural Sciences
+China,1 - Medicine
+China,1 - Social Sciences (Misc.)
+China,Communication
+China,Demography
+China,Engineering
+China,Mathematics
+China,Safety Research
+East Asia and Oceania,6 - Development
+East Asia and Oceania,5 - Sociology and Political Science
+East Asia and Oceania,2 - Environmental Science
+East Asia and Oceania,2 - Political Science and International Relations
+East Asia and Oceania,"1 - Economics, Econometrics and Finance"
+East Asia and Oceania,1 - Law
+East Asia and Oceania,1 - Multidisciplinary
+East Asia and Oceania,Agricultural and Biological Sciences
+East Asia and Oceania,Arts and Humanities
+East Asia and Oceania,"Business, Management and Accounting"
+East Asia and Oceania,Communication
+East Asia and Oceania,Computer Science
+East Asia and Oceania,Cultural Sciences
+East Asia and Oceania,Decision Sciences
+East Asia and Oceania,Demography
+East Asia and Oceania,Earth and Planetary Sciences
+East Asia and Oceania,Education
+East Asia and Oceania,Energy
+East Asia and Oceania,Engineering
+East Asia and Oceania,Mathematics
+East Asia and Oceania,Medicine
+East Asia and Oceania,Safety Research
+East Asia and Oceania,Social Sciences (Misc.)
+East Asia and Oceania,Transportation
+East Asia and Oceania,Urban Studies
+Europe and North America,15 - Development
+Europe and North America,"7 - Economics, Econometrics and Finance"
+Europe and North America,6 - Environmental Science
+Europe and North America,6 - Political Science and International Relations
+Europe and North America,6 - Sociology and Political Science
+Europe and North America,"3 - Business, Management and Accounting"
+Europe and North America,2 - Decision Sciences
+Europe and North America,2 - Social Sciences (Misc.)
+Europe and North America,2 - Transportation
+Europe and North America,1 - Agricultural and Biological Sciences
+Europe and North America,1 - Energy
+Europe and North America,1 - Medicine
+Europe and North America,Arts and Humanities
+Europe and North America,Communication
+Europe and North America,Computer Science
+Europe and North America,Cultural Sciences
+Europe and North America,Demography
+Europe and North America,Earth and Planetary Sciences
+Europe and North America,Education
+Europe and North America,Engineering
+Europe and North America,Law
+Europe and North America,Mathematics
+Europe and North America,Multidisciplinary
+Europe and North America,Safety Research
+Europe and North America,Urban Studies
+South Asia,36 - Development
+South Asia,14 - Environmental Science
+South Asia,14 - Sociology and Political Science
+South Asia,8 - Political Science and International Relations
+South Asia,"7 - Business, Management and Accounting"
+South Asia,"7 - Economics, Econometrics and Finance"
+South Asia,7 - Social Sciences (Misc.)
+South Asia,6 - Earth and Planetary Sciences
+South Asia,5 - Energy
+South Asia,5 - Multidisciplinary
+South Asia,4 - Transportation
+South Asia,2 - Computer Science
+South Asia,2 - Law
+South Asia,2 - Medicine
+South Asia,1 - Agricultural and Biological Sciences
+South Asia,1 - Decision Sciences
+South Asia,1 - Safety Research
+South Asia,Arts and Humanities
+South Asia,Communication
+South Asia,Cultural Sciences
+South Asia,Demography
+South Asia,Education
+South Asia,Engineering
+South Asia,Mathematics
+South Asia,Urban Studies
+Southeast Asia,33 - Development
+Southeast Asia,15 - Sociology and Political Science
+Southeast Asia,"12 - Economics, Econometrics and Finance"
+Southeast Asia,10 - Political Science and International Relations
+Southeast Asia,8 - Environmental Science
+Southeast Asia,3 - Energy
+Southeast Asia,3 - Transportation
+Southeast Asia,1 - Agricultural and Biological Sciences
+Southeast Asia,"1 - Business, Management and Accounting"
+Southeast Asia,1 - Computer Science
+Southeast Asia,1 - Earth and Planetary Sciences
+Southeast Asia,1 - Law
+Southeast Asia,1 - Social Sciences (Misc.)
+Southeast Asia,Arts and Humanities
+Southeast Asia,Communication
+Southeast Asia,Cultural Sciences
+Southeast Asia,Decision Sciences
+Southeast Asia,Demography
+Southeast Asia,Education
+Southeast Asia,Engineering
+Southeast Asia,Mathematics
+Southeast Asia,Medicine
+Southeast Asia,Multidisciplinary
+Southeast Asia,Safety Research
+Southeast Asia,Urban Studies
+World,304 - Development
+World,271 - Environmental Science
+World,"185 - Economics, Econometrics and Finance"
+World,96 - Sociology and Political Science
+World,85 - Political Science and International Relations
+World,"71 - Business, Management and Accounting"
+World,66 - Energy
+World,59 - Transportation
+World,45 - Earth and Planetary Sciences
+World,23 - Multidisciplinary
+World,23 - Social Sciences (Misc.)
+World,19 - Decision Sciences
+World,17 - Law
+World,15 - Computer Science
+World,14 - Mathematics
+World,13 - Agricultural and Biological Sciences
+World,12 - Medicine
+World,5 - Urban Studies
+World,3 - Safety Research
+World,2 - Education
+World,1 - Arts and Humanities
+World,1 - Communication
+World,1 - Cultural Sciences
+World,1 - Demography
+World,1 - Engineering
