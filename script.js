@@ -7,6 +7,7 @@ const slugToName = [
   "Europe and North America",
   "China",
   "Southeast Asia",
+  "India"
 ];
 
 let articles;
