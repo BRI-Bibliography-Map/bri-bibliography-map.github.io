@@ -15,7 +15,6 @@ let countryData = {};
 d3.csv("data.csv")
   .then(function (data) {
     articles = data;
-    console.log(articles);
   })
   .catch(function (error) {
     // handle error
@@ -88,8 +87,6 @@ function handleCountry(event, country) {
     (key) => `${sortedData[key]} - ${key}`
   );
 
-  console.log(countryDataHTML);
-
   // display the popup with data from the countryData object for the country
   const popup = new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(event.lngLat)
@@ -102,9 +99,6 @@ function handleCountry(event, country) {
 }
 
 map.on("click", (event) => {
-  // log all features under the mouse
-  console.log(map.queryRenderedFeatures(event.point)[0].properties);
-
   if (!map.queryRenderedFeatures(event.point).length) {
     return;
   }
