@@ -1,10 +1,6 @@
-// TO MAKE THE MAP APPEAR YOU MUST
-	// ADD YOUR ACCESS TOKEN FROM
-	// https://account.mapbox.com
-	mapboxgl.accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN';
+	mapboxgl.accessToken = 'pk.eyJ1IjoicHJpbmNlMjM1MSIsImEiOiJjbGFldDE5MXcwM3kzM3BwOWZtcTNtMHl2In0.VjFh-fU8xktSsNTfGW5iGg';
     const map = new mapboxgl.Map({
         container: 'map',
-        // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
         style: 'mapbox://styles/mapbox/streets-v12',
         center: [-96, 37.8],
         zoom: 2
