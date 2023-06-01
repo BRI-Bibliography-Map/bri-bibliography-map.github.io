@@ -32,7 +32,7 @@ subjects = [
 nations = {}
 
 # open the csv file in read mode
-with open('stupiddumbdata.csv', 'r') as read_obj:
+with open('countryData.csv', 'r') as read_obj:
     # pass the file object to reader() to get the reader object
     csv_reader = csv.reader(read_obj)
     next(csv_reader)
